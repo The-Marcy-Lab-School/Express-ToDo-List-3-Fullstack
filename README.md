@@ -19,7 +19,7 @@ The purpose of this Problem Set is to merge your work from your previous To Do L
   
 ## Submission Directions
 1. Clone, and create your project in this repo.
-2. Update this README so that instead of project directions, it houses the documentation for your project. It can be very simple. [Here's an example](https://github.com/emtes/assignment-todo-list) from Enmanuel!
+2. Update this README so that instead of project directions, it houses the documentation for your project. It can be very simple. [Here's an example](https://gist.github.com/thuyanduong/c2dc4d16aefed27938c12ed360cec06a)!
 3. Deploy to Heroku and be sure to include the project URL in your Canvas submission and the link to your repo in the comment.
 
 ### Example App
