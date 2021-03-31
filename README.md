@@ -23,7 +23,9 @@ The purpose of this Problem Set is to merge your work from your previous To Do L
 3. Deploy to Heroku and be sure to include the project URL in your Canvas submission and the link to your repo in the comment.
 
 ### Example App
-[Demo](https://anns-to-do-app.herokuapp.com/users)
+[Demo App](https://anns-to-do-app.herokuapp.com/users)
+
+[Same Demo App as an API](https://anns-to-do-app.herokuapp.com/api/users)
 
 ##### API Endpoints:
 
