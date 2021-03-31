@@ -27,15 +27,3 @@ The purpose of this Problem Set is to merge your work from your previous To Do L
 
 [Same Demo App as an API](https://anns-to-do-app.herokuapp.com/api/users)
 
-##### API Endpoints:
-
-* `GET /api/users`
-* `GET /api/users/:id`
-
-* `GET /api/tasks`
-* `POST /api/tasks`
-* `GET /api/tasks/:id`
-* `PUT /api/tasks/:id`
-* `PATCH /api/tasks/:id`
-* `DELETE /api/tasks/:id`
-
