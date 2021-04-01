@@ -3,13 +3,16 @@
 ## Project Overview
 The purpose of this Problem Set is to merge your work from your previous To Do List labs. You will build an MVC To-Do list that has Front-end views as well as RESTful API routes. Your app must be connected to a Postgres Database. Depending on the type and the path of the request, your Express App should either render a view or some JSON data. From your Front-end, you can either make form requests or make AJAX requests to your backend. This will be a Full-stack application where a user can interact with the Server through a Front-end GUI
 
-### App Requirements
+### App Requirements 
+
 * Your To-Do list app must have multiple users.
 * Each user has their own To-Do List which contains tasks. 
 * A user can create, update, view, mark as complete, and delete tasks.
 * There will not be any Auth for this lab.
 
 ### API Requirements
+
+Each route should return the appropriate JSON response and status code:
 * An API route to see all of a user's tasks.
 * An API route to see details about an individual task item.
 * An API route to update the details of a task
