@@ -1,7 +1,7 @@
 # Full Stack To-Do-List
 
 ## Project Overview
-The purpose of this Problem Set is to merge your work from your previous To Do List labs. You will build an MVC To-Do list that has Front-end views as well as RESTful API routes. Your app must be connected to a Postgres Database. Depending on the type and the path of the request, your Express App should either render a view or some JSON data. From your Front-end, you can either make form requests or make AJAX requests to your backend. This will be a Full-stack application where a user can interact with the Server through a Front-end GUI
+You will build an MVC To-Do list that has Front-end views as well as RESTful API routes. Your app must be connected to a Postgres Database. Depending on the type and the path of the request, your Express App should either render a view or some JSON data. From your Front-end, you can either make form requests or make AJAX requests to your backend. This will be a Full-stack application where a user can interact with the Server through a Front-end GUI
 
 ### App Requirements 
 
