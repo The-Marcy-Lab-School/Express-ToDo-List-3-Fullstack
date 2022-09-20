@@ -28,5 +28,5 @@ Each route should return the appropriate JSON response and status code:
 ### Example App
 [Demo App](https://anns-to-do-app.herokuapp.com/users)
 
-[Same Demo App as an API](https://anns-to-do-app.herokuapp.com/api/users)
+[Same Demo App, but has API routes](https://anns-to-do-app.herokuapp.com/api/users)
 
